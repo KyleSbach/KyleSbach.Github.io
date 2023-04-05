@@ -1,1 +1,17 @@
 
+body {background-color: #333;
+      color: #ddd;
+      font-family: sarif;
+      margin: 10% 20%
+}
+  
+
+.exp-header {
+    text-align: center;
+  text-transform: uppercase;
+  border-top: 3px dashed;
+}
+
+.work-logo {
+  text-align: center;
+}
