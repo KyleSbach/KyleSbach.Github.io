@@ -1,7 +1,7 @@
 
 body {background-color: #333;
       color: #ddd;
-      font-family: sarif;
+      font-family: sarif, helvetica, arial;
       margin: 10% 20%
 }
   
