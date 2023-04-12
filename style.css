@@ -1,10 +1,31 @@
 
-body {background-color: #333;
-      color: #ddd;
+body {
+      background-color: grey;
+      color: black;
       font-family: sarif, helvetica, arial;
-      margin: 10% 20%
+      margin: 10% 10%;
 }
-  
+.header{
+      text-align: center;
+      border: 1px solid white;
+      margin-bottom: 5%; 
+}
+h1 {
+  color: lime;
+  font-family: system-ui, Gill Sans;
+}
+h2 {
+  color: white;
+  font-family: sans;
+}
+h3 {
+  color: white;
+  font-family: Georgia;
+}
+h4 {
+  color: lime;
+  font-family: Fira sans;
+}
 
 .exp-header {
     text-align: center;
